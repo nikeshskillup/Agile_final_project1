@@ -11,8 +11,4 @@ assignees: ''
  **I need** [function]  
  **So that** [benefit]  
    
- ### Details and Assumptions
- * [document what you know]
-   
- 
  
